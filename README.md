@@ -6,8 +6,8 @@
 
 **2 проекта в проде** · **40+ публичных репо** · **3 языка backend** — Python, Java, Go
 
-<a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="24" /></a>
-<a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" height="24" /></a>
+<a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="30" /></a>
+<a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" height="30" /></a>
 
 ---
 
@@ -283,5 +283,5 @@ Telegram-боты на aiogram: [таск-менеджер с напоминан
 
 Открыт к заказам и сотрудничеству.
 
-<a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="24" /></a>
-<a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" height="24" /></a>
+<a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" height="30" /></a>
+<a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" height="30" /></a>
