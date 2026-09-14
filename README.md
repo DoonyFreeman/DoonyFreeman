@@ -4,7 +4,7 @@
 
 Делаю backend-сервисы и сайты под ключ: от API и базы до вёрстки из Figma и выкладки в прод.
 
-**2 проекта в проде** · **40+ публичных репо** · **3 языка backend** — Python, Java, Go
+**3 года в разработке** · **2 проекта в проде** · **40+ публичных репо**
 
 <a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" width="119" /></a>
 <a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" width="89" /></a>
