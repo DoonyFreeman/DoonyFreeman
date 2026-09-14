@@ -244,9 +244,38 @@ Telegram-боты на aiogram: [таск-менеджер с напоминан
 
 ## 🔒 Закрытые проекты
 
-- **Creder** — менеджер секретов по проектам: пароли, заметки, файлы, TOTP. Шифрование в браузере через WebCrypto, сервер хранит только шифротекст. FastAPI + React.
-- **Dollar Editor** — веб-редактор вертикальных роликов 9:16: сценарий → персонажи и озвучка → фоновый рендер FFmpeg. FastAPI + React.
-- **AI Classroom Copilot** — ассистент для лекций в реальном времени: Android (Kotlin / Compose) + FastAPI realtime backend.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="assets/creder.webp" alt="Creder" />
+
+### Creder
+Менеджер секретов по проектам: пароли, серверы, API-ключи, заметки, файлы, TOTP. Шифрование в браузере через WebCrypto — сервер хранит только шифротекст и не может прочитать записи. Второй фактор, passkeys, код восстановления.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![WebCrypto](https://img.shields.io/badge/WebCrypto-000000?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="assets/dollar-editor.webp" alt="Dollar Editor" />
+
+### Dollar Editor
+Веб-редактор вертикальных мем-роликов 9:16: шаблоны, персонажи-«доллары» со скинами и эмоциями, реплики с озвучкой, сцены на таймлайне, фоновый рендер видео через FFmpeg, файлы в S3.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+Также: **AI Classroom Copilot** — ассистент для лекций в реальном времени: Android (Kotlin / Compose) + FastAPI realtime backend.
 
 ---
 
