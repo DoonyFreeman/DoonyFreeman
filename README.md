@@ -1,10 +1,10 @@
 # Артём Ребриков
 
-**Backend & Fullstack-разработчик** · FastAPI / Spring Boot · Next.js · 1С-Битрикс · Москва
+**Python Backend-разработчик** · FastAPI · PostgreSQL · Celery · RabbitMQ · Москва
 
-Делаю backend-сервисы и сайты под ключ: от API и базы до вёрстки из Figma и выкладки в прод.
+Backend на Python: API, очереди и фоновые задачи, тесты, CI/CD и деплой в Docker.
 
-**3 года в разработке** · **2 проекта в проде** · **40+ публичных репо**
+**1 год коммерческой backend-разработки** · **2 проекта в проде** · **40+ публичных репо**
 
 <a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" width="119" /></a>
 <a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" width="89" /></a>
@@ -48,7 +48,6 @@ Next.js / React + TypeScript, дизайн-система, анимации, и�
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 **Frontend**
@@ -68,12 +67,10 @@ Next.js / React + TypeScript, дизайн-система, анимации, и�
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
 **CMS**
@@ -124,18 +121,20 @@ Next.js / React + TypeScript, дизайн-система, анимации, и�
 ### Interview Prep
 🟢 **live** — [демо-стенд](https://176.123.168.87.sslip.io/)
 
+Код: [github.com/DoonyFreeman/interview-prep](https://github.com/DoonyFreeman/interview-prep)
+
 Платформа подготовки к техническим собеседованиям: теория по курсам, ответ пользователя проверяет ИИ по базе знаний сайта, слабые темы возвращаются по spaced repetition. Курсы, роадмап, тесты, прогресс по концептам.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-Также: **ERP для строительной компании** — FastAPI + Next.js, канбан / диаграмма Ганта / файлы / чат, Docker + Helm, CI/CD (закрытый проект).
+Также: **ERP для архитектурной компании** — канбан, диаграмма Ганта, файлы, чат; FastAPI, PostgreSQL, Celery + RabbitMQ, Redis, WebSocket, Docker, CI/CD (закрытый проект).
 
 ## 🧩 Open-source
 
@@ -218,11 +217,11 @@ Telegram-боты на aiogram: [таск-менеджер с напоминан
 ### [DocFind](https://github.com/Nek1s/DocFind)
 Интеллектуальный поиск по внутренней базе документов: загрузка PDF/DOCX, полнотекстовый поиск с подсветкой совпадений, метрики в Grafana / Prometheus, всё поднимается одной командой.
 
-**Моя роль:** backend, индексация документов, метрики — 48 коммитов.
+**Моя роль:** backend — полнотекстовый поиск на Elasticsearch, извлечение текста из PDF/DOCX, кэш в Redis — 48 коммитов.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -281,7 +280,7 @@ Telegram-боты на aiogram: [таск-менеджер с напоминан
 
 ## Контакты
 
-Открыт к заказам и сотрудничеству.
+Открыт к предложениям о работе: Python backend, Москва / гибрид.
 
 <a href="https://t.me/Doony_Freeman"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat&logo=telegram&logoColor=white" alt="Telegram" width="119" /></a>
 <a href="mailto:doony_freeman@vk.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat&logo=maildotru&logoColor=white" alt="Email" width="89" /></a>
