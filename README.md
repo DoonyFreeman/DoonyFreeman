@@ -127,9 +127,11 @@ Next.js / React + TypeScript, дизайн-система, анимации, и�
 Платформа подготовки к техническим собеседованиям: теория по курсам, ответ пользователя проверяет ИИ по базе знаний сайта, слабые темы возвращаются по spaced repetition. Курсы, роадмап, тесты, прогресс по концептам.
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 </td>
 </tr>
